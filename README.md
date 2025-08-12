@@ -40,8 +40,6 @@ Este projeto foi desenvolvido como parte de um teste para uma empresa e inclui f
 
 ## ⚙️ Instalação e Uso
 
-### 1️⃣ Clonar o repositório
-
 ```bash
 git clone https://github.com/seu-usuario/front-movie.git
 cd front-movie
@@ -69,3 +67,5 @@ src/
  ├── types/            # Tipos TypeScript globais
  └── main.tsx          # Entrada da aplicação
 ```
+
+## ⚙️ Configure o backend https://github.com/Parizotto9/backend-movieApp
